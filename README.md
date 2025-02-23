@@ -1,1 +1,2 @@
 # city-bike-nyc
+This is a quick analysis of last month's bike-sharing data in NYC (data source: https://citibikenyc.com/system-data), analyzing the potential for additional insurance, in particular for trips of over 30 minutes (potential premium of 0.20 USD)
