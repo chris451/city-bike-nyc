@@ -1,0 +1,6 @@
+instruction.txt
+log4j.properties
+/data
+
+# misc
+.DS_Store
